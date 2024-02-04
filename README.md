@@ -1,4 +1,4 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png" alt="emblem" width="50" height="50"/> QuantiyAuth
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png" alt="emblem" width="50" height="50"/> OAUTH 2.0 GENERATOR
 This is an oAuth 2.0 phishing generator, use the setup guide below. 
 
  
